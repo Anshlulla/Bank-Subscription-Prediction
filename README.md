@@ -11,3 +11,5 @@ The Random Forest, Logistic Regression, and SVM models are evaluated using metri
 
 ## Deployment
 The trained Random Forest model is deployed using Streamlit, providing an interactive web interface for users to input data and receive predictions on whether a person will subscribe to the bank or not.
+
+ 
